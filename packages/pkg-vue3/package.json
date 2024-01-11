@@ -1,0 +1,7 @@
+{
+  "name": "pkg-vue3",
+  "version": "0.0.0",
+  "dependencies": {
+    "vue": "^3.4.9"
+  }
+}
